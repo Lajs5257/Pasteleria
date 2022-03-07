@@ -3,6 +3,9 @@
 Para la práctica de esta semana tuvimos que maquetar en HTML el siguiente caso y generando este repositorio con el ejercicio.
 `<br>`
 Recordemos que solamente se necesitaba maquetar como un prototipo, **no es necesario que tenga funcionalidad completa en la información**
+## Pagina de despliegue
+Se uso netlife como servicio para hacer el deploy de esta maquetacion
+https://modest-liskov-cee7f3.netlify.app/
 
 ## Vistas previas
 ![image](https://user-images.githubusercontent.com/82974706/156948362-667471bf-ff65-47f9-a3c9-b55a8c0e9726.png)
